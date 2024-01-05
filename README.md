@@ -1,2 +1,3 @@
 # Site_blocker
-File html locker
+this script from js html
+for browser new virus in html
