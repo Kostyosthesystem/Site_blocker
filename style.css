@@ -1,0 +1,18 @@
+            margin: 0;
+            padding: 0;
+            background-color: rgb(0, 0, 0);
+            color: rgb(255, 1, 1);
+            font-size: 24px;
+            text-align: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        /* style for passworld */
+        #passwordInput {
+            margin-top: 20px;
+            font-size: 18px;
+        }
